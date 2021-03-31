@@ -1,3 +1,4 @@
 # Summary
 
-* [Benefits & Perks](benefits-and-perks.md)
+# Benefits
+  * [Benefits & Perks](benefits-and-perks.md)
