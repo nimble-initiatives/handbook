@@ -1,7 +1,5 @@
 # Benefits & Perks
 
-# Benefits
-
 ## Health Insurance
 
 ### Medical Insurance
