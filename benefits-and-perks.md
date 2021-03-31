@@ -4,8 +4,6 @@
 
 ### Medical Insurance
 
-### Dental Insurance
-
 ### Vision Insurance
 
 ### Life Insurance
