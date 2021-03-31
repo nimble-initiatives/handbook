@@ -1,4 +1,3 @@
-# Gettings Started
+# Getting Started
 
-We Are Nimble Initiatives...
-
+## Chapter one
