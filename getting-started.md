@@ -1,3 +1,3 @@
 # Getting Started
 
-## Chapter one...
+## Chapter one
