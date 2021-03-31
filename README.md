@@ -1,3 +1,4 @@
-# We Are Nimble Initiatives
+# Introduction
 
 Nimble Initiatives Employee Handbook
+
