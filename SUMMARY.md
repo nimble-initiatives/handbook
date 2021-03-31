@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Gettings Started](README.md)
+* [Getting Started](README.md)
 
 ## Benefits
 
