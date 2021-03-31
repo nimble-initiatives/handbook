@@ -1,3 +1,3 @@
 # Summary
 
-* [Benefits & Perks](./benfits-and-perks.md)
+* [Benefits & Perks](benefits-and-perks.md)
