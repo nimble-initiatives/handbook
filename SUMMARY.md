@@ -1,5 +1,8 @@
-# Summary
+# Table of contents
+
+* [Gettings Started](README.md)
 
 ## Benefits
 
-* [Benefits & Perks](benefits-and-perks.md)
+* [Benefits & Perks](benefits/benefits-and-perks.md)
+
