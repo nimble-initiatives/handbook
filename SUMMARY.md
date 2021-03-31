@@ -1,5 +1,5 @@
 # Summary
 
-# Benefits
+## Benefits
 
-  * [Benefits & Perks](benefits-and-perks.md)
+* [Benefits & Perks](benefits-and-perks.md)
