@@ -1,1 +1,0 @@
-# What We Stand For
