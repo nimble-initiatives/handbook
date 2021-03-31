@@ -1,3 +1,5 @@
 # Getting Started
 
-## Chapter one
+## Expectations
+## Your Buddy
+## Setting Up Your Machine

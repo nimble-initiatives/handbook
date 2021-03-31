@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Getting Started](README.md)
+* [How We Work](how-we-work.md)
 
 ## Benefits
 
