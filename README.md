@@ -1,4 +1,3 @@
-# Introduction
+# Nimble Initiatives Employee Handbook
 
-Nimble Initiatives Employee Handbook
-
+Introduction to Nimble Initiatives...
