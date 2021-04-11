@@ -2,6 +2,7 @@
 
 * [Getting Started](README.md)
 * [How We Work](how-we-work.md)
+* [Our Internal Systems](our-internal-systems.md)
 * [Our Rituals](our-rituals.md)
 
 ## Benefits
