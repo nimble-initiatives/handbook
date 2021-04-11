@@ -13,9 +13,9 @@ https://getsentry.com
 ## Better Uptime
 We monitor the uptime of our online presence using Better Uptime. Incidents are pushed to a variety of communication channels.
 
-https://betteruptime.com/
+https://betteruptime.com
 
 ### Status pages
 These are our public status pages
 
-* https://status.nimbleinitiatives.com/
+* https://status.nimbleinitiatives.com
