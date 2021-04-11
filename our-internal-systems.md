@@ -5,6 +5,11 @@ Linear helps us streamline software projects, cycles, tasks, and bug tracking.
 
 https://linear.app
 
+## Missive
+We collaborate on almost anything, even some emails. For this we use a team inboxes using Missive.
+
+https://missiveapp.com
+
 ## Enpass
 For secure passwords, notes and so forth we use Enpass. An Enpass vault is synced and always up to date with the latest info.
 
