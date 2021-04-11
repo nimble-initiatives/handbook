@@ -16,5 +16,6 @@ We monitor the uptime of our online presence using Better Uptime. Incidents are 
 https://betteruptime.com
 
 **Status pages**
-
-* https://status.nimbleinitiatives.com
+|Name|URL|Status|
+|---|---|---|
+|Nimble Initiatives|https://status.nimbleinitiatives.com|[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/6rkt.svg)](https://betteruptime.com/?utm_source=status_badge)
