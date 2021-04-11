@@ -1,5 +1,10 @@
 # Our Internal Systems
 
+## Linear
+Linear helps us streamline software projects, cycles, tasks, and bug tracking.
+
+https://linear.app
+
 ## Enpass
 For secure passwords, notes and so forth we use Enpass. An Enpass vault is synced and always up to date with the latest info.
 
