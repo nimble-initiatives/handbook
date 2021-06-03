@@ -4,6 +4,7 @@
 * [How We Work](how-we-work.md)
 * [Our Internal Systems](our-internal-systems.md)
 * [Our Rituals](our-rituals.md)
+* [Finance](finance.md)
 
 ## Benefits
 
@@ -12,6 +13,3 @@
 ## Values
 
 * [What We Stand For](values/what-we-stand-for.md)
-
-## Fiance
-* [Result May 2021](assets/experiment.pdf)
