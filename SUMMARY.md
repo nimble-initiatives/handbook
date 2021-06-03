@@ -12,3 +12,6 @@
 ## Values
 
 * [What We Stand For](values/what-we-stand-for.md)
+
+## Fiance
+* [Result May 2021](assets/experiment.pdf)
